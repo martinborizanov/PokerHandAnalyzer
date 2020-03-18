@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		9692EB902422193600A90BF7 /* PokerHandAnalyzer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PokerHandAnalyzer; sourceTree = BUILT_PRODUCTS_DIR; };
 		9692EB932422193600A90BF7 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		9692EB9A24221A0600A90BF7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		9692EB872422193600A90BF7 = {
 			isa = PBXGroup;
 			children = (
+				9692EB9A24221A0600A90BF7 /* README.md */,
 				9692EB922422193600A90BF7 /* PokerHandAnalyzer */,
 				9692EB912422193600A90BF7 /* Products */,
 			);
